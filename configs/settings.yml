@@ -1,0 +1,8 @@
+TOKEN: token
+PluginsSettings:
+  kbchatbot:
+    ChatbotDB:
+      Host: 'localhost'
+      User: 'root'
+      Passwd: 'root'
+      DB: 'kbchatbot'
